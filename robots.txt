@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /sass/
+Disallow: /vendor/
+sitemap: http://www.shucon.co.in/sitemap.xml
